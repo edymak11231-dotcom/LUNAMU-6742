@@ -1,0 +1,16 @@
+Designator, Qty, Part Type, Role, Notes / Common Brands
+V101-V108, 8, 6386 tube, Main audio/compression elements, NOS GE/RCA; JJ reissue (less favored)
+V109-V110, 2, 12AX7 (ECC83) tube, Small-signal preamp/phase, Mullard/Telefunken/JJ/Tung-Sol
+V111-V112, 2, 12BH7 tube, Driver/buffer stages, RCA/GE/JJ
+V113, 1, E80F / 6084 tube, Control/preamp, Telefunken/Mullard
+V114, 1, 5651 regulator tube, Voltage regulator, Tung-Sol/GE NOS
+V115-V118, 4, 6973 tube, Driver/power roles, Electro-Harmonix/RCA
+V119, 1, GZ34 / 5AR4 rectifier, HV rectifier (some rebuilt with solid-state), Mullard/JJ
+, , , ,
+T101/T201, 2, Input transformers, Balanced line inputs, Original custom; substitutes: UTC, Sowter
+T301/T401, 2, Output transformers, Balanced line outputs, Original custom; Triad HS-54, Sowter
+T-intA/B, ~4, Interstage transformers, Coupling/phase/signal isolation, Custom wound; Sowter/Piemme
+T-CTRL, 1–2, Control-amp transformers, Sidechain/meter drive, Custom; Piemme/boutique winders
+T-PSU, 1, Power transformer, High-voltage + heater supplies, Custom Fairchild spec; Sowter/custom rewinds
+L301-L302, 2, Filter chokes/inductors, PSU filtering, Match inductance/current per schematic
+
